@@ -10,7 +10,7 @@ An interactive Plotly dashboard tracking digital adoption across Saudi retail st
 Retail Sales Dataset (`retail_sales.csv`) — provided as part of the "Data Visualization and Storytelling" course (SDA-DSC-112) at SDAIA Academy. The dataset covers a 12-month period (January – December 2025) at daily granularity, and includes: date, store, city, category, sales channel (online / in-store), units sold, revenue, returned units, foot traffic, and customer satisfaction (CSAT).
 
 ## Tools
-Python, Pandas, Plotly
+Python, Pandas, Plotly, Google Colab
 
 ## How to Run the Project
 1. Download the files (`retail_sales.csv` and `DashboardRenadEbnAlameer.ipynb`) and place them in the same folder
