@@ -4,7 +4,7 @@
 An interactive Plotly dashboard tracking digital adoption across Saudi retail stores — comparing monthly revenue growth between the online channel and in-store branches, and monitoring the impact of this shift on customer satisfaction (CSAT) and return rates, across 6 stores in 4 major cities (Riyadh, Jeddah, Dammam, Khobar). The project aims to give executive leadership and store managers a clear view of the network's digital transformation journey, identify stores lagging in digital adoption, and monitor the impact of this shift on customer experience quality.
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard-retail-sales-RENAD.png)
+![Dashboard Preview](Dashboard--sales-renad.png)
 
 ## Dataset
 Retail Sales Dataset (`retail_sales.csv`) — provided as part of the "Data Visualization and Storytelling" course (SDA-DSC-112) at SDAIA Academy. The dataset covers a 12-month period (January – December 2025) at daily granularity, and includes: date, store, city, category, sales channel (online / in-store), units sold, revenue, returned units, foot traffic, and customer satisfaction (CSAT).
